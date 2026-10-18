@@ -1,5 +1,3 @@
-# Task 01 — Data–MC ratio plots of BDT input variables and BDT score
-
 ## Physics goal
 Data–MC agreement on the BDT input variables and on the BDT score itself
 (`bdt_nf3`) is a prerequisite for trusting the BDT-based WW selection that
